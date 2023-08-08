@@ -61,17 +61,17 @@ Additionally, staff members are available to help community members engage with 
 
 If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. 
 
-## 9. Scope
+## 8. Scope
 
 We expect all community participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct online as well as in all one-on-one communications pertaining to community business.
 
 This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
 
-## 10. Contact info
+## 9. Contact info
 
 sy@legitzenith.com
 
-## 11. License and attribution
+## 10. License and attribution
 
 The Citizen Code of Conduct is distributed by [Stumptown Syndicate](http://stumptownsyndicate.org) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
 
